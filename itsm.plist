@@ -33,7 +33,7 @@
                 <key>metadata</key>  
                 <dict>  
                     <key>update-url</key>  
-                    <string>https://123.56.16.173/itsm.plist</string>  
+                    <string>https://raw.githubusercontent.com/1297880488/test/master/itsm.plist</string>  
                     <key>bundle-identifier</key>  
                     <string>cn.gov.tobacco.itsmMobile</string>  
                     <key>bundle-version</key>  
